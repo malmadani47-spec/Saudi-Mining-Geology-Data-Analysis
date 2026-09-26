@@ -15,7 +15,8 @@ The analysis focuses on drillhole information, gold grades, mineralized intercep
 
 ## Key Features
 
-- Analysis of **712 drillholes** and **642 gold intercepts**
+- Analysis of **712 source drillholes** and **642 gold intercepts**
+- **633 drillholes (P01–P06)** included in geographic mapping; P07 was excluded because its local mine grid requires a valid coordinate transformation
 - Relational data model linking Drillholes and Intercepts
 - SQL analysis using JOIN, GROUP BY, aggregation, CASE, and Views
 - Gold grade analysis using Average, Maximum, Median, and Grade × Interval
