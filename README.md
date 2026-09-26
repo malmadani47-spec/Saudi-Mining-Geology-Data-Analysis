@@ -131,12 +131,17 @@ For Power BI mapping, valid UTM coordinates were transformed to **WGS84 Latitude
 The original Easting/Northing coordinates were retained for spatial analysis and validation.
 
 
-## Dashboard Preview
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
 
-- `Executive_Overview.png` — Executive Overview dashboard
-- `Gold_Analysis_Final.png` — Gold Analysis dashboard
-- `Data_Quality.png` — Data Quality dashboard
-- `Spatial_GIS_Analysis.png` — Spatial / GIS dashboard
+### Gold Analysis
+![Gold Analysis](Gold_Analysis_Final.png)
+
+### Data Quality
+![Data Quality](Data_Quality.png)
+
+### Spatial / GIS Analysis
+![Spatial GIS Analysis](Spatial_GIS_Analysis.png)
 
 ## Project Workflow
 
