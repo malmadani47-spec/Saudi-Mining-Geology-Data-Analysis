@@ -135,8 +135,7 @@ The original Easting/Northing coordinates were retained for spatial analysis and
 ### Executive Overview
 ![Executive Overview](Executive_Overview.png)
 
-### Gold Analysis
-![Gold Analysis](Gold_Analysis.png)
+![Gold Analysis](Gold_Analysis_Final.png)
 
 ### Data Quality
 ![Data Quality](Data_Quality.png)
