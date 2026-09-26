@@ -132,16 +132,18 @@ The original Easting/Northing coordinates were retained for spatial analysis and
 
 ## Dashboard Preview
 
-![Saudi Mining & Geology Power BI Dashboard](Saudi_Mining_Geology_.png)
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
 
+### Gold Analysis
+![Gold Analysis](Gold_Analysis.png)
 
-## Repository Files
+### Data Quality
+![Data Quality](Data_Quality.png)
 
-- `Saudi_Mining_Geology_PowerBI.pbix` — Interactive Power BI dashboard
-- `Saudi_Mining_Geology_.sql` — SQL analysis and database workflow
-- `Saudi_Mining_Geology_.csv` — Analytical dataset exported from MySQL
-- `Saudi_Mining_Geology_.xlsx` — Excel project dataset
-- `Saudi_Mining_Geology_.png` — Dashboard preview
+### Spatial / GIS Analysis
+![Spatial GIS Analysis](Spatial_GIS_Analysis.png)
+
 
 ## Project Workflow
 
