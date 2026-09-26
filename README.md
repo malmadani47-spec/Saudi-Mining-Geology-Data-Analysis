@@ -133,17 +133,10 @@ The original Easting/Northing coordinates were retained for spatial analysis and
 
 ## Dashboard Preview
 
-### Executive Overview
-![Executive Overview](Executive_Overview.png)
-
-![Gold Analysis](Gold_Analysis_Final.png)
-
-### Data Quality
-![Data Quality](Data_Quality.png)
-
-### Spatial / GIS Analysis
-![Spatial GIS Analysis](Spatial_GIS_Analysis.png)
-
+- `Executive_Overview.png` — Executive Overview dashboard
+- `Gold_Analysis_Final.png` — Gold Analysis dashboard
+- `Data_Quality.png` — Data Quality dashboard
+- `Spatial_GIS_Analysis.png` — Spatial / GIS dashboard
 
 ## Project Workflow
 
