@@ -131,7 +131,15 @@ For Power BI mapping, valid UTM coordinates were transformed to **WGS84 Latitude
 The original Easting/Northing coordinates were retained for spatial analysis and validation.
 
 
+### ArcGIS Pro — Drillhole Location Map
+
+The final ArcGIS Pro layout visualizes the spatial distribution of drillholes across projects P01–P06, with detailed inset maps for clearer drillhole-level visualization.
+
+![Saudi Mining Projects — Drillhole Locations](Saudi_Mining_Projects_Drillhole_Locations.jpg)
+
+
 ### Executive Overview
+
 ![Executive Overview](Executive_Overview.png)
 
 ### Gold Analysis
