@@ -140,7 +140,7 @@ The final ArcGIS Pro layout visualizes the spatial distribution of drillholes ac
 
 ### Executive Overview
 
-![Executive Overview](01_Executive_Overview.png)
+![Executive Overview](001_Executive_Overview.png)
 
 ### Gold Analysis
 ![Gold Analysis](02_Gold_Analysis.png)
